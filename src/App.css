@@ -1,38 +1,51 @@
-.App {
-  text-align: center;
+.app {
+  background-image: url('/images/citydweller.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  padding-top: 10%;
+  padding-left: 20%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.todo-list {
+  background: #1E2F97;
+  border-radius: 4px;
+  max-width: 500px;
+  padding: 10px 14px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+.todo {
+  background: #1AA7EC;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  border-radius: 3px;
+  font-size: 14px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 400;
+  letter-spacing: 1px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 6px;
+  padding: 3px 10px;
 }
 
-.App-link {
-  color: #61dafb;
+.input{
+  background-color: #94DFFF;
+  font-size: 10px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 400;
+  letter-spacing: 1px;
+  border: none;
+  border-radius: 3px;
+  width: 97%;
+  margin-top: 3px;
+  padding: 5px 8px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.editlist-buttons{
+  background-color: #1E2F97;
+  border-radius: 3px;
+  padding: 2px 6px;
+  margin: 2px;
+  border: none;
+  color: #94DFFF;
 }
