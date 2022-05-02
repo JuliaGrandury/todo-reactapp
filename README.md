@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![todoreact-screenshot.png][todoreact-screenshot.png]](./todoreact-screenshot.png)
+[![todoreact-screenshot.png][todoreact-screenshot.png]](todoreact-screenshot.png)
 
 A very simple to do app allowing users to add and remove to dos or cross them out once they have completed them.
 
