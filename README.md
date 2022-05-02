@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/JuliaGrandury/todo-reactapp">
-    <img src="" alt="Logo" width="80" height="80">
+    <img src="https://img.icons8.com/fluency/64/000000/to-do.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">To Do React App</h3>
