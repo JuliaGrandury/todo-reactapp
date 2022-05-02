@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot of Project][/todoreact-screenshot.png]
+![Screenshot of Project](https://github.com/JuliaGrandury/pokemon-react/blob/10e9316882de2c9f61563de5f7184b1773dfa6a1/todoreact-screenshot.png)
 
 A very simple to do app allowing users to add and remove to dos or cross them out once they have completed them.
 
